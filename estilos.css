@@ -7,12 +7,12 @@ header{
 }
 
 .degrades{
-    background-image: linear-gradient(to bottom, #25325B, #C5E1A5);
+    padding: 50px;
+    background-image: linear-gradient(to bottom, #25325B, #5675D8);
 }
 
 body{
-    background-color: #C5E1A5;
-
+    background-color: #5675D8;
 }
 
 .buscador{
